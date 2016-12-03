@@ -1,0 +1,30 @@
+{
+  "name": "pokeapi-catcher",
+  "version": "0.0.1",
+  "description": "A script to copy the 151 first pokemons from PokeAPI.co to Firebase database.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpsouza/pokeapi-catcher.git"
+  },
+  "keywords": [
+    "Pokemon",
+    "PokeAPI",
+    "Firebase",
+    "Copy",
+    "Export",
+    "Import"
+  ],
+  "author": "Luiz Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lpsouza/pokeapi-catcher/issues"
+  },
+  "homepage": "https://github.com/lpsouza/pokeapi-catcher#readme",
+  "dependencies": {
+    "firebase": "^3.6.2"
+  }
+}
